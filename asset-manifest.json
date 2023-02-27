@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/free-hit/static/css/main.cad27c75.css",
-    "main.js": "/free-hit/static/js/main.8dda103d.js",
+    "main.js": "/free-hit/static/js/main.db6792fa.js",
     "index.html": "/free-hit/index.html",
     "main.cad27c75.css.map": "/free-hit/static/css/main.cad27c75.css.map",
-    "main.8dda103d.js.map": "/free-hit/static/js/main.8dda103d.js.map"
+    "main.db6792fa.js.map": "/free-hit/static/js/main.db6792fa.js.map"
   },
   "entrypoints": [
     "static/css/main.cad27c75.css",
-    "static/js/main.8dda103d.js"
+    "static/js/main.db6792fa.js"
   ]
 }
